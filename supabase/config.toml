@@ -1,0 +1,4 @@
+project_id = "dduljrcanhsvnvzdaqoz"
+
+[functions.send-meeting-notification]
+verify_jwt = false
